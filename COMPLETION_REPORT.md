@@ -19,4 +19,4 @@ TEST / DOCUMENTATION / EXAMPLES / ERROR HANDLING / CODE QUALITY / INTEGRATION �
 2026-09-05 BI7, iteration 2. Shoulder Angels still refused (no key); Cael forks documented.
 
 ## Repo
-https://github.com/MetaphyKing/AsWritten — filled after create.
+https://github.com/MetaphyKing/AsWritten (PUBLIC) — `gh repo view` 2026-09-05, git clean and pushed.
