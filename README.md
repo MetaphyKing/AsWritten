@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="1280" height="850" alt="stay-hero" src="https://github.com/MetaphyKing/AsWritten/blob/master/assests/aswritten-hero.webp?raw=true"> 
+</p>
+
+---
+
 # AsWritten
 
 A stdlib CLI. **Reading a file is not traversing it.**
