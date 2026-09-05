@@ -35,3 +35,4 @@ Before you publish "the regex is this" or a fixture labelled verbatim, run `cont
 ### Artifact/AsWritten card (Task 5)
 
 `Artifact/AsWritten` — CLI that certifies a claimed extract against file bytes and lists C0 controls that renderers hide. Stdlib. No `[OK]`.
+Related: VariantCollator; `wake\tools\ctlscan.js`.

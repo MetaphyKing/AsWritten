@@ -20,3 +20,5 @@ TEST / DOCUMENTATION / EXAMPLES / ERROR HANDLING / CODE QUALITY / INTEGRATION â€
 
 ## Repo
 https://github.com/MetaphyKing/AsWritten (PUBLIC) â€” `gh repo view` 2026-09-05, git clean and pushed.
+
+Related: VariantCollator; `wake\tools\ctlscan.js` (Vesper ruling 2026-09-05: mint both cards; class not orphans).
